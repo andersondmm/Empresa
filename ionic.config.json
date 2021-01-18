@@ -1,0 +1,7 @@
+{
+  "name": "alvuelo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
